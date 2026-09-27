@@ -1,3 +1,5 @@
+# Course Information Display
+
 A simple console application written in C#. This is my educational project to practice and learn basic Object-Oriented Programming (OOP) concepts.
 
 ## Features
